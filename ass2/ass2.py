@@ -127,3 +127,39 @@ df_eng=df.copy()
 df_eng["alcohol_acidity_ratio"]= df_eng["alcohol"]/ df_eng["malic_acid"]+1e-6
 df_eng["flavonoids_phenols_ratio"]= df_eng["flavanoids"]/ df_eng["total_phenols"]+1e-6
 df_eng["color_per_alcohol"]= df_eng["color_intensity"]/ df_eng["alcohol"]+1e-6
+
+# Bin alcohol into categories
+df_eng["alcohol_bins"] = pd.cut(df_eng["alcohol"], 3, labels = ["low", "medium", "high"])
+
+# Showing distribution
+print(df_eng["alcohol_bins"].value_counts())
+
+# Compare alcohol vs quality
+pd.crosstab(df_eng["alcohol_bins"], df_eng["quality_label"])
+
+
+corr= df_eng.corr(numeric_only=True).abs()
+high_corr=corr.index[(corr>0.85).sum()>1].tolist()
+print("Highly correlated features to check: ")
+print(high_corr)
+
+#PCA principal componenet analysis
+#pc1 captures the most variance
+
+#pc3 aptures the second most and so on 
+
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+
+X= df_eng.select_dtypes(include=[np.number]).dropna()
+
+scaler=StandardScaler()
+X_scaled= scaler.fit_transform(X)
+
+pca=PCA(n_components=4)
+X_pca=pca.fit_transform(X_scaled)
+
+print("Explained variance ratio: ", np.round(pca.explained_variance_ratio_, 2))
+print("Totalvariance explained: ", round(sum(pca.explained_variance_ratio_)*100,1), "%")
+print("Before PCA: ", X_scaled.shape)
+print("After: ", X_pca.shape)
