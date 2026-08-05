@@ -117,10 +117,13 @@ order_map={"low": 0, "medium":1, "high":2}
 df["quality_label"]=df["quality_label"].map(order_map)
 print("Manual ordinal mapping:" , order_map)
 
-df_ohe=pd.get_dummies(df, columns=["quality_label"], drop_first=True)
-new_cols=[c for c in df_ohe.columns if "quality_label" in c]
-print("OOHE new columns : {df.shape}. |  after : {df.shape}")
-df[["quality_label", "quality_le", "quality_ordinal"]].drop_duplicates().sort_values("quality_ordianal")
+df_ohe = pd.get_dummies(df, columns=['quality_label'], drop_first=True)
+new_cols = [c for c in df_ohe.columns if "quality_label" in c]
+
+print("OHE new cols:\n", *new_cols)
+print(f"Shape before OHE {df.shape} | after: {df_ohe.shape}")
+
+df[["quality_label", "quality_le", "quality_ordinal"]].drop_duplicates().sort_values("quality_ordinal")
 
 df_eng=df.copy()
 
