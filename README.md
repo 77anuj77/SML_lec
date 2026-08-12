@@ -7,3 +7,7 @@
 
 # 29 July
 - Learned PCA and Feature selection and engineering
+
+# 12 July 
+- learned the naive bayes for the categorical data 
+- implemented the 3 ml traing for improving accuracy 
