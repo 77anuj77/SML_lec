@@ -1,0 +1,757 @@
+team1,team2,toss_winner,toss_decision,venue,season,team1_strength,team2_strength,strength_diff,team1_at_home,toss_team1,team1_win
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,MA Chidambaram,2012,0.45,0.56,-0.11,0,1,1
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,2015,0.5,0.42,0.08,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Rajiv Gandhi Intl,2009,0.48,0.53,-0.05,0,1,1
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Feroz Shah Kotla,2016,0.53,0.68,-0.15,0,0,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,DY Patil,2022,0.5,0.42,0.08,0,0,1
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,DY Patil,2016,0.45,0.48,-0.03,0,0,1
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Feroz Shah Kotla,2016,0.5,0.42,0.08,0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2019,0.65,0.5,0.15,0,0,1
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2008,0.45,0.56,-0.11,0,0,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,2011,0.42,0.56,-0.14,0,0,0
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajiv Gandhi Intl,2011,0.45,0.65,-0.2,0,1,0
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Wankhede,2021,0.42,0.45,-0.03,0,0,1
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,2016,0.42,0.53,-0.11,0,0,0
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Wankhede,2016,0.56,0.48,0.08,0,0,0
+Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Chinnaswamy,2010,0.42,0.68,-0.26,0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Sawai Mansingh,2017,0.5,0.56,-0.06,0,1,1
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,DY Patil,2014,0.45,0.68,-0.23,0,1,0
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Chinnaswamy,2010,0.42,0.53,-0.11,0,1,0
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Eden Gardens,2014,0.53,0.42,0.11,0,1,0
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Eden Gardens,2019,0.45,0.5,-0.05,0,1,1
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,2021,0.45,0.42,0.03,0,0,1
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,MA Chidambaram,2014,0.45,0.53,-0.08,0,1,1
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Wankhede,2012,0.48,0.56,-0.08,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chinnaswamy,2017,0.56,0.53,0.03,0,0,1
+Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Chinnaswamy,2021,0.68,0.42,0.26,0,1,1
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Chinnaswamy,2016,0.53,0.68,-0.15,0,0,0
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2013,0.68,0.56,0.12,0,0,1
+Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Eden Gardens,2011,0.42,0.68,-0.26,0,0,0
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,DY Patil,2008,0.45,0.65,-0.2,0,1,0
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,DY Patil,2008,0.65,0.5,0.15,0,0,1
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Rajiv Gandhi Intl,2014,0.48,0.65,-0.17,0,1,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2011,0.5,0.56,-0.06,0,0,0
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Wankhede,2019,0.48,0.5,-0.02,0,1,1
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Feroz Shah Kotla,2010,0.42,0.53,-0.11,0,1,0
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Wankhede,2008,0.45,0.5,-0.05,0,0,1
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Wankhede,2016,0.45,0.65,-0.2,0,1,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,DY Patil,2017,0.45,0.48,-0.03,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2019,0.56,0.53,0.03,0,0,0
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chinnaswamy,2010,0.42,0.5,-0.08,0,0,0
+Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,DY Patil,2011,0.48,0.68,-0.2,0,1,0
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Chinnaswamy,2016,0.56,0.45,0.11,0,0,1
+Punjab Kings,Delhi Capitals,Punjab Kings,field,DY Patil,2020,0.42,0.48,-0.06,1,1,1
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Feroz Shah Kotla,2015,0.68,0.53,0.15,0,0,1
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Feroz Shah Kotla,2018,0.45,0.5,-0.05,0,1,1
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,MA Chidambaram,2010,0.45,0.48,-0.03,0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Feroz Shah Kotla,2022,0.5,0.56,-0.06,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Chinnaswamy,2008,0.53,0.56,-0.03,0,1,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2010,0.56,0.53,0.03,0,0,0
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2019,0.53,0.48,0.05,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,DY Patil,2010,0.45,0.53,-0.08,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,DY Patil,2021,0.68,0.5,0.18,0,1,1
+Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Chinnaswamy,2017,0.42,0.45,-0.03,0,1,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh,2020,0.68,0.65,0.03,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,2017,0.65,0.56,0.09,0,0,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Rajiv Gandhi Intl,2021,0.56,0.48,0.08,0,0,0
+Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Sawai Mansingh,2022,0.45,0.42,0.03,1,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Eden Gardens,2017,0.68,0.5,0.18,0,1,1
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Feroz Shah Kotla,2012,0.56,0.65,-0.09,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,2013,0.53,0.56,-0.03,0,0,1
+Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Feroz Shah Kotla,2020,0.56,0.45,0.11,0,1,0
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chinnaswamy,2019,0.65,0.45,0.2,0,0,0
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh,2016,0.65,0.48,0.17,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,DY Patil,2021,0.68,0.5,0.18,0,1,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh,2022,0.68,0.48,0.2,0,0,1
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Chinnaswamy,2012,0.53,0.42,0.11,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajiv Gandhi Intl,2021,0.53,0.45,0.08,1,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2014,0.53,0.56,-0.03,0,0,1
+Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajiv Gandhi Intl,2012,0.48,0.45,0.03,0,1,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,DY Patil,2008,0.56,0.42,0.14,0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Eden Gardens,2008,0.53,0.56,-0.03,0,1,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Chinnaswamy,2019,0.42,0.5,-0.08,0,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Wankhede,2008,0.53,0.5,0.03,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2009,0.5,0.53,-0.03,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2017,0.65,0.56,0.09,1,0,1
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,2012,0.48,0.65,-0.17,0,0,0
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,MA Chidambaram,2016,0.5,0.48,0.02,0,0,0
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Chinnaswamy,2011,0.53,0.68,-0.15,0,1,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Wankhede,2014,0.45,0.42,0.03,0,1,0
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2011,0.68,0.56,0.12,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Feroz Shah Kotla,2020,0.48,0.53,-0.05,1,1,0
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,DY Patil,2011,0.56,0.68,-0.12,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Feroz Shah Kotla,2018,0.45,0.53,-0.08,0,0,1
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,MA Chidambaram,2017,0.53,0.42,0.11,0,1,0
+Delhi Capitals,Punjab Kings,Punjab Kings,field,MA Chidambaram,2018,0.48,0.42,0.06,0,0,0
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Wankhede,2020,0.45,0.56,-0.11,0,1,0
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chinnaswamy,2017,0.48,0.53,-0.05,0,0,1
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,MA Chidambaram,2008,0.53,0.48,0.05,0,0,0
+Mumbai Indians,Punjab Kings,Mumbai Indians,field,Feroz Shah Kotla,2013,0.68,0.42,0.26,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Eden Gardens,2017,0.5,0.48,0.02,0,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2017,0.48,0.5,-0.02,0,0,0
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Chinnaswamy,2020,0.42,0.53,-0.11,0,1,1
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,Wankhede,2013,0.68,0.42,0.26,1,0,1
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sawai Mansingh,2012,0.65,0.53,0.12,0,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Chinnaswamy,2011,0.53,0.5,0.03,0,1,1
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Wankhede,2012,0.45,0.68,-0.23,0,0,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,DY Patil,2015,0.5,0.42,0.08,0,0,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Feroz Shah Kotla,2017,0.42,0.56,-0.14,0,0,0
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2018,0.56,0.65,-0.09,0,0,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2020,0.68,0.65,0.03,0,0,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,MA Chidambaram,2022,0.5,0.48,0.02,0,1,0
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Sawai Mansingh,2015,0.65,0.45,0.2,0,1,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,MA Chidambaram,2017,0.68,0.5,0.18,0,1,1
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Eden Gardens,2016,0.48,0.5,-0.02,0,1,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede,2012,0.68,0.48,0.2,1,0,0
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,MA Chidambaram,2017,0.48,0.5,-0.02,0,1,0
+Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Chinnaswamy,2020,0.68,0.48,0.2,0,0,1
+Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Feroz Shah Kotla,2022,0.48,0.68,-0.2,1,1,1
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chinnaswamy,2009,0.65,0.5,0.15,0,1,0
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Wankhede,2008,0.48,0.56,-0.08,0,1,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Eden Gardens,2018,0.45,0.42,0.03,0,1,1
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Eden Gardens,2021,0.48,0.56,-0.08,0,1,0
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Wankhede,2015,0.5,0.42,0.08,0,1,0
+Delhi Capitals,Punjab Kings,Delhi Capitals,field,MA Chidambaram,2011,0.48,0.42,0.06,0,1,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,MA Chidambaram,2009,0.68,0.5,0.18,0,1,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2010,0.65,0.48,0.17,0,0,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,DY Patil,2015,0.45,0.42,0.03,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,MA Chidambaram,2009,0.56,0.68,-0.12,0,1,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Eden Gardens,2020,0.5,0.56,-0.06,0,1,1
+Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Rajiv Gandhi Intl,2009,0.48,0.68,-0.2,0,1,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh,2016,0.65,0.48,0.17,0,0,1
+Punjab Kings,Delhi Capitals,Delhi Capitals,field,Wankhede,2017,0.42,0.48,-0.06,0,0,0
+Punjab Kings,Mumbai Indians,Punjab Kings,field,Sawai Mansingh,2022,0.42,0.68,-0.26,0,1,0
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Eden Gardens,2020,0.48,0.65,-0.17,0,1,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2018,0.5,0.56,-0.06,0,1,0
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh,2016,0.53,0.65,-0.12,0,0,0
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2017,0.56,0.65,-0.09,0,1,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,2010,0.68,0.65,0.03,0,0,0
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Sawai Mansingh,2015,0.65,0.42,0.23,0,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2017,0.56,0.5,0.06,0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Wankhede,2012,0.5,0.56,-0.06,0,1,1
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Chinnaswamy,2021,0.48,0.45,0.03,0,0,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Sawai Mansingh,2015,0.45,0.42,0.03,1,1,0
+Punjab Kings,Rajasthan Royals,Punjab Kings,field,Chinnaswamy,2011,0.42,0.45,-0.03,0,1,1
+Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Rajiv Gandhi Intl,2016,0.48,0.68,-0.2,0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Rajiv Gandhi Intl,2017,0.5,0.65,-0.15,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sawai Mansingh,2008,0.5,0.53,-0.03,0,1,0
+Punjab Kings,Delhi Capitals,Punjab Kings,bat,Feroz Shah Kotla,2020,0.42,0.48,-0.06,0,1,0
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Sawai Mansingh,2017,0.68,0.45,0.23,0,0,0
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Wankhede,2008,0.53,0.65,-0.12,0,0,1
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Wankhede,2012,0.45,0.48,-0.03,0,0,0
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Wankhede,2009,0.56,0.65,-0.09,0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,DY Patil,2020,0.5,0.68,-0.18,0,1,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,MA Chidambaram,2012,0.68,0.48,0.2,0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,MA Chidambaram,2017,0.5,0.45,0.05,0,1,1
+Punjab Kings,Rajasthan Royals,Punjab Kings,field,MA Chidambaram,2013,0.42,0.45,-0.03,0,1,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Sawai Mansingh,2014,0.45,0.42,0.03,1,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Chinnaswamy,2014,0.53,0.5,0.03,0,1,0
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Feroz Shah Kotla,2021,0.65,0.53,0.12,0,1,0
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,MA Chidambaram,2018,0.56,0.48,0.08,0,0,0
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Chinnaswamy,2017,0.48,0.56,-0.08,0,1,1
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,DY Patil,2011,0.48,0.53,-0.05,0,0,0
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,MA Chidambaram,2009,0.53,0.48,0.05,0,0,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Chinnaswamy,2012,0.5,0.56,-0.06,1,1,0
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Sawai Mansingh,2022,0.48,0.65,-0.17,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Eden Gardens,2016,0.5,0.53,-0.03,0,1,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,DY Patil,2011,0.42,0.56,-0.14,1,1,0
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Eden Gardens,2016,0.53,0.42,0.11,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sawai Mansingh,2008,0.53,0.45,0.08,0,1,1
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Wankhede,2008,0.53,0.65,-0.12,0,1,0
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Wankhede,2012,0.45,0.5,-0.05,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Sawai Mansingh,2011,0.56,0.68,-0.12,0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,2018,0.5,0.45,0.05,0,0,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,DY Patil,2016,0.5,0.56,-0.06,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sawai Mansingh,2018,0.48,0.53,-0.05,0,1,0
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Feroz Shah Kotla,2016,0.56,0.65,-0.09,0,1,1
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Wankhede,2014,0.48,0.45,0.03,0,0,0
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Chinnaswamy,2021,0.53,0.45,0.08,0,1,1
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,DY Patil,2010,0.53,0.68,-0.15,0,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Feroz Shah Kotla,2008,0.48,0.5,-0.02,1,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,MA Chidambaram,2014,0.48,0.5,-0.02,0,0,0
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2008,0.42,0.65,-0.23,0,0,1
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Wankhede,2014,0.56,0.65,-0.09,0,1,1
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Wankhede,2022,0.45,0.5,-0.05,0,1,0
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Chinnaswamy,2015,0.5,0.68,-0.18,1,1,0
+Punjab Kings,Delhi Capitals,Punjab Kings,field,MA Chidambaram,2013,0.42,0.48,-0.06,0,1,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Sawai Mansingh,2008,0.45,0.42,0.03,1,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Eden Gardens,2009,0.5,0.48,0.02,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2014,0.53,0.56,-0.03,0,0,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Wankhede,2009,0.56,0.48,0.08,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Wankhede,2017,0.5,0.53,-0.03,0,1,0
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,2010,0.5,0.45,0.05,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Rajiv Gandhi Intl,2013,0.68,0.5,0.18,0,1,0
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Sawai Mansingh,2012,0.56,0.65,-0.09,0,1,1
+Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Eden Gardens,2008,0.65,0.48,0.17,0,1,1
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Rajiv Gandhi Intl,2012,0.48,0.65,-0.17,0,1,0
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,MA Chidambaram,2016,0.45,0.48,-0.03,0,1,0
+Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Rajiv Gandhi Intl,2017,0.65,0.48,0.17,0,1,1
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,MA Chidambaram,2011,0.65,0.53,0.12,1,1,1
+Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Feroz Shah Kotla,2008,0.53,0.48,0.05,0,1,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,DY Patil,2013,0.42,0.5,-0.08,1,1,1
+Punjab Kings,Mumbai Indians,Mumbai Indians,field,Chinnaswamy,2010,0.42,0.68,-0.26,0,0,0
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Wankhede,2017,0.68,0.45,0.23,1,1,1
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram,2018,0.68,0.65,0.03,0,0,0
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,Feroz Shah Kotla,2019,0.68,0.42,0.26,0,0,0
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chinnaswamy,2018,0.48,0.65,-0.17,0,0,0
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Feroz Shah Kotla,2021,0.68,0.5,0.18,0,1,0
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2013,0.5,0.42,0.08,0,1,0
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Wankhede,2020,0.65,0.68,-0.03,0,1,0
+Punjab Kings,Chennai Super Kings,Punjab Kings,field,Eden Gardens,2012,0.42,0.65,-0.23,0,1,0
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2015,0.45,0.48,-0.03,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sawai Mansingh,2010,0.45,0.53,-0.08,1,0,1
+Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chinnaswamy,2019,0.65,0.42,0.23,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Sawai Mansingh,2014,0.65,0.56,0.09,0,1,1
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,MA Chidambaram,2009,0.45,0.68,-0.23,0,1,0
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chinnaswamy,2017,0.53,0.65,-0.12,0,1,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,DY Patil,2010,0.5,0.42,0.08,0,0,1
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2012,0.48,0.56,-0.08,0,0,0
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Wankhede,2022,0.42,0.56,-0.14,0,1,0
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Rajiv Gandhi Intl,2015,0.53,0.68,-0.15,1,0,1
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Wankhede,2012,0.56,0.65,-0.09,0,0,0
+Mumbai Indians,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,2018,0.68,0.42,0.26,0,0,0
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,DY Patil,2022,0.53,0.48,0.05,0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2011,0.5,0.45,0.05,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,MA Chidambaram,2021,0.56,0.48,0.08,0,1,1
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chinnaswamy,2015,0.65,0.68,-0.03,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Chinnaswamy,2011,0.53,0.45,0.08,0,1,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2008,0.53,0.5,0.03,1,0,1
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sawai Mansingh,2016,0.42,0.5,-0.08,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chinnaswamy,2018,0.48,0.53,-0.05,0,0,1
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Wankhede,2022,0.68,0.56,0.12,1,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2013,0.53,0.5,0.03,0,0,1
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,DY Patil,2020,0.53,0.65,-0.12,0,1,0
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Rajiv Gandhi Intl,2020,0.53,0.68,-0.15,1,0,0
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Wankhede,2013,0.5,0.65,-0.15,0,1,0
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Wankhede,2020,0.42,0.56,-0.14,0,1,0
+Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Rajiv Gandhi Intl,2019,0.68,0.48,0.2,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Sawai Mansingh,2017,0.5,0.48,0.02,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2009,0.5,0.48,0.02,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2018,0.53,0.56,-0.03,1,0,0
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2010,0.68,0.42,0.26,0,0,1
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,2022,0.5,0.45,0.05,0,0,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Feroz Shah Kotla,2011,0.45,0.48,-0.03,0,1,1
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2008,0.5,0.68,-0.18,0,1,1
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Sawai Mansingh,2020,0.42,0.5,-0.08,0,1,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,MA Chidambaram,2018,0.5,0.56,-0.06,0,1,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Sawai Mansingh,2017,0.45,0.42,0.03,1,1,1
+Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Wankhede,2014,0.65,0.48,0.17,0,1,1
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh,2021,0.53,0.48,0.05,0,0,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,DY Patil,2019,0.5,0.56,-0.06,0,1,0
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Wankhede,2012,0.45,0.53,-0.08,0,1,0
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,MA Chidambaram,2010,0.68,0.5,0.18,0,1,1
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Chinnaswamy,2015,0.68,0.53,0.15,0,1,1
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chinnaswamy,2021,0.68,0.65,0.03,0,0,1
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,DY Patil,2019,0.45,0.5,-0.05,0,1,0
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Sawai Mansingh,2008,0.56,0.45,0.11,0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Feroz Shah Kotla,2022,0.56,0.53,0.03,0,1,0
+Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,DY Patil,2020,0.53,0.48,0.05,0,1,1
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sawai Mansingh,2022,0.53,0.65,-0.12,0,1,0
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Wankhede,2015,0.5,0.48,0.02,0,1,0
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,DY Patil,2022,0.5,0.68,-0.18,0,0,0
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,DY Patil,2009,0.48,0.56,-0.08,0,1,1
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Wankhede,2020,0.65,0.68,-0.03,0,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,Rajiv Gandhi Intl,2017,0.48,0.42,0.06,0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chinnaswamy,2020,0.65,0.5,0.15,0,0,0
+Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,DY Patil,2016,0.48,0.68,-0.2,0,1,0
+Punjab Kings,Chennai Super Kings,Punjab Kings,field,Sawai Mansingh,2018,0.42,0.65,-0.23,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2017,0.5,0.53,-0.03,0,1,0
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Eden Gardens,2013,0.45,0.68,-0.23,0,0,0
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2014,0.56,0.48,0.08,0,0,1
+Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Chinnaswamy,2019,0.53,0.48,0.05,0,1,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Wankhede,2018,0.65,0.56,0.09,0,0,0
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Sawai Mansingh,2022,0.65,0.56,0.09,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,MA Chidambaram,2015,0.56,0.68,-0.12,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,DY Patil,2009,0.56,0.53,0.03,0,0,0
+Punjab Kings,Mumbai Indians,Mumbai Indians,field,DY Patil,2011,0.42,0.68,-0.26,1,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chinnaswamy,2017,0.65,0.53,0.12,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Sawai Mansingh,2008,0.56,0.5,0.06,0,1,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Feroz Shah Kotla,2021,0.42,0.56,-0.14,0,1,0
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajiv Gandhi Intl,2013,0.45,0.53,-0.08,0,1,0
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Eden Gardens,2014,0.45,0.48,-0.03,0,1,1
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,MA Chidambaram,2012,0.5,0.68,-0.18,0,1,0
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh,2022,0.42,0.56,-0.14,0,0,0
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,2019,0.5,0.45,0.05,0,0,0
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Wankhede,2016,0.68,0.48,0.2,1,0,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,MA Chidambaram,2019,0.56,0.53,0.03,0,0,1
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2019,0.68,0.53,0.15,0,0,1
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,MA Chidambaram,2011,0.56,0.65,-0.09,0,1,1
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,Chinnaswamy,2012,0.68,0.42,0.26,0,0,1
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Eden Gardens,2015,0.5,0.45,0.05,0,1,0
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh,2022,0.48,0.65,-0.17,0,0,0
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh,2021,0.5,0.65,-0.15,0,0,0
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,2012,0.42,0.65,-0.23,0,0,1
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2022,0.42,0.53,-0.11,0,0,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Eden Gardens,2009,0.45,0.42,0.03,0,1,0
+Punjab Kings,Rajasthan Royals,Punjab Kings,bat,DY Patil,2016,0.42,0.45,-0.03,1,1,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,MA Chidambaram,2012,0.68,0.65,0.03,0,0,0
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Sawai Mansingh,2016,0.48,0.56,-0.08,0,0,0
+Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Wankhede,2018,0.68,0.48,0.2,1,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2009,0.53,0.45,0.08,1,0,0
+Mumbai Indians,Punjab Kings,Punjab Kings,field,DY Patil,2021,0.68,0.42,0.26,0,0,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh,2022,0.68,0.48,0.2,0,0,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Wankhede,2010,0.56,0.48,0.08,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Eden Gardens,2009,0.65,0.56,0.09,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2019,0.5,0.48,0.02,0,1,1
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,MA Chidambaram,2022,0.65,0.68,-0.03,1,0,0
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Eden Gardens,2019,0.45,0.5,-0.05,0,1,0
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh,2012,0.53,0.48,0.05,0,0,0
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,MA Chidambaram,2020,0.68,0.53,0.15,0,1,1
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,2021,0.65,0.45,0.2,0,0,1
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Feroz Shah Kotla,2021,0.45,0.56,-0.11,0,1,0
+Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Chinnaswamy,2014,0.68,0.48,0.2,0,0,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,DY Patil,2008,0.65,0.42,0.23,0,1,1
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2008,0.65,0.53,0.12,0,0,1
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Rajiv Gandhi Intl,2013,0.53,0.65,-0.12,1,0,0
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,DY Patil,2017,0.56,0.68,-0.12,0,1,1
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Eden Gardens,2015,0.65,0.68,-0.03,0,0,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Feroz Shah Kotla,2017,0.56,0.42,0.14,0,1,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Eden Gardens,2008,0.65,0.48,0.17,0,0,1
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Feroz Shah Kotla,2014,0.68,0.45,0.23,0,0,1
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Rajiv Gandhi Intl,2016,0.65,0.68,-0.03,0,0,0
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2020,0.5,0.42,0.08,0,1,0
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Chinnaswamy,2011,0.68,0.56,0.12,0,1,0
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,MA Chidambaram,2008,0.65,0.42,0.23,1,1,1
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2020,0.68,0.65,0.03,0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,MA Chidambaram,2015,0.65,0.53,0.12,1,1,0
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chinnaswamy,2013,0.65,0.56,0.09,0,1,0
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Eden Gardens,2014,0.45,0.56,-0.11,0,1,0
+Punjab Kings,Delhi Capitals,Punjab Kings,field,MA Chidambaram,2020,0.42,0.48,-0.06,0,1,0
+Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Wankhede,2014,0.68,0.42,0.26,1,1,1
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Rajiv Gandhi Intl,2020,0.68,0.53,0.15,0,1,1
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Feroz Shah Kotla,2008,0.5,0.45,0.05,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sawai Mansingh,2008,0.53,0.56,-0.03,0,1,0
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,2008,0.56,0.45,0.11,0,0,1
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Wankhede,2016,0.53,0.65,-0.12,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,2014,0.5,0.53,-0.03,0,0,1
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Feroz Shah Kotla,2017,0.48,0.5,-0.02,1,1,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Rajiv Gandhi Intl,2015,0.68,0.5,0.18,0,1,1
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajiv Gandhi Intl,2016,0.48,0.45,0.03,0,0,1
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Rajiv Gandhi Intl,2011,0.5,0.65,-0.15,0,0,0
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Wankhede,2011,0.65,0.68,-0.03,0,1,0
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Feroz Shah Kotla,2010,0.68,0.45,0.23,0,1,0
+Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,MA Chidambaram,2009,0.48,0.68,-0.2,0,1,0
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,DY Patil,2019,0.45,0.56,-0.11,0,0,0
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2020,0.48,0.56,-0.08,0,0,1
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,MA Chidambaram,2010,0.65,0.53,0.12,1,0,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2015,0.68,0.5,0.18,0,0,1
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2021,0.45,0.5,-0.05,0,0,1
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,DY Patil,2008,0.45,0.56,-0.11,0,1,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2014,0.56,0.53,0.03,0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2014,0.53,0.56,-0.03,0,0,0
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,MA Chidambaram,2021,0.48,0.45,0.03,0,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,MA Chidambaram,2017,0.48,0.5,-0.02,0,0,0
+Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Eden Gardens,2009,0.42,0.45,-0.03,0,1,0
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Wankhede,2010,0.53,0.65,-0.12,0,0,1
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2017,0.5,0.42,0.08,0,0,1
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chinnaswamy,2016,0.65,0.53,0.12,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Wankhede,2016,0.53,0.45,0.08,0,0,1
+Punjab Kings,Mumbai Indians,Punjab Kings,field,DY Patil,2020,0.42,0.68,-0.26,1,1,1
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Feroz Shah Kotla,2018,0.65,0.5,0.15,0,0,1
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Wankhede,2019,0.42,0.5,-0.08,0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2012,0.53,0.5,0.03,0,0,1
+Punjab Kings,Mumbai Indians,Punjab Kings,field,Chinnaswamy,2015,0.42,0.68,-0.26,0,1,1
+Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Sawai Mansingh,2021,0.68,0.48,0.2,0,1,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Chinnaswamy,2018,0.56,0.42,0.14,0,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Eden Gardens,2013,0.53,0.45,0.08,0,1,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,DY Patil,2016,0.42,0.56,-0.14,1,1,0
+Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Feroz Shah Kotla,2021,0.45,0.65,-0.2,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Eden Gardens,2012,0.68,0.5,0.18,0,0,1
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Sawai Mansingh,2019,0.5,0.65,-0.15,0,1,1
+Chennai Super Kings,Punjab Kings,Punjab Kings,field,Wankhede,2016,0.65,0.42,0.23,0,0,1
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Feroz Shah Kotla,2021,0.48,0.56,-0.08,1,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Chinnaswamy,2017,0.56,0.5,0.06,0,1,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Eden Gardens,2012,0.45,0.42,0.03,0,1,0
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sawai Mansingh,2014,0.53,0.45,0.08,0,1,0
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2020,0.5,0.45,0.05,0,1,0
+Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Eden Gardens,2022,0.65,0.48,0.17,0,1,1
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,MA Chidambaram,2008,0.45,0.56,-0.11,0,1,0
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh,2019,0.45,0.48,-0.03,1,1,0
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,DY Patil,2015,0.42,0.53,-0.11,1,0,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,DY Patil,2017,0.53,0.5,0.03,0,1,0
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Chinnaswamy,2018,0.68,0.5,0.18,0,1,1
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Eden Gardens,2017,0.42,0.53,-0.11,0,1,0
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,MA Chidambaram,2016,0.56,0.68,-0.12,0,0,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Chinnaswamy,2012,0.42,0.5,-0.08,0,1,1
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajiv Gandhi Intl,2010,0.45,0.53,-0.08,0,1,1
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Eden Gardens,2013,0.48,0.53,-0.05,0,0,1
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Sawai Mansingh,2011,0.56,0.68,-0.12,0,0,0
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Feroz Shah Kotla,2015,0.5,0.48,0.02,0,1,0
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Feroz Shah Kotla,2010,0.65,0.45,0.2,0,1,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Rajiv Gandhi Intl,2017,0.48,0.5,-0.02,0,0,0
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Feroz Shah Kotla,2021,0.45,0.56,-0.11,0,1,1
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Chinnaswamy,2019,0.45,0.68,-0.23,0,0,0
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Wankhede,2013,0.5,0.68,-0.18,0,1,0
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2019,0.42,0.45,-0.03,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,MA Chidambaram,2017,0.68,0.5,0.18,0,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,MA Chidambaram,2013,0.53,0.5,0.03,0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2017,0.53,0.5,0.03,1,1,0
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,DY Patil,2012,0.53,0.48,0.05,0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chinnaswamy,2008,0.65,0.53,0.12,0,0,0
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,2019,0.56,0.45,0.11,0,0,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Feroz Shah Kotla,2017,0.56,0.68,-0.12,0,1,1
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,DY Patil,2017,0.56,0.42,0.14,0,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,2016,0.48,0.42,0.06,1,0,1
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Wankhede,2012,0.42,0.5,-0.08,0,0,0
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Eden Gardens,2015,0.68,0.56,0.12,0,0,0
+Punjab Kings,Rajasthan Royals,Punjab Kings,field,Eden Gardens,2019,0.42,0.45,-0.03,0,1,0
+Delhi Capitals,Mumbai Indians,Mumbai Indians,field,MA Chidambaram,2010,0.48,0.68,-0.2,0,0,0
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,DY Patil,2019,0.53,0.68,-0.15,0,0,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Eden Gardens,2016,0.68,0.65,0.03,0,0,0
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Eden Gardens,2019,0.45,0.68,-0.23,0,1,0
+Mumbai Indians,Punjab Kings,Mumbai Indians,field,Rajiv Gandhi Intl,2021,0.68,0.42,0.26,0,1,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,DY Patil,2016,0.68,0.5,0.18,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,DY Patil,2022,0.65,0.56,0.09,0,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sawai Mansingh,2008,0.56,0.5,0.06,0,0,1
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2011,0.45,0.53,-0.08,0,0,0
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Rajiv Gandhi Intl,2018,0.42,0.53,-0.11,0,1,0
+Punjab Kings,Chennai Super Kings,Punjab Kings,field,Eden Gardens,2016,0.42,0.65,-0.23,0,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2014,0.5,0.53,-0.03,0,1,0
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2018,0.68,0.56,0.12,0,0,1
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,MA Chidambaram,2015,0.65,0.53,0.12,1,1,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Eden Gardens,2019,0.45,0.42,0.03,0,1,0
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chinnaswamy,2018,0.56,0.65,-0.09,0,0,1
+Punjab Kings,Delhi Capitals,Delhi Capitals,bat,DY Patil,2015,0.42,0.48,-0.06,1,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2013,0.56,0.5,0.06,0,0,0
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Wankhede,2022,0.68,0.53,0.15,1,1,1
+Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Feroz Shah Kotla,2013,0.53,0.48,0.05,0,1,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Chinnaswamy,2008,0.5,0.42,0.08,1,0,1
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chinnaswamy,2020,0.56,0.65,-0.09,0,0,0
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Feroz Shah Kotla,2019,0.68,0.53,0.15,0,1,0
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,DY Patil,2009,0.65,0.42,0.23,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Feroz Shah Kotla,2015,0.56,0.53,0.03,0,1,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2022,0.68,0.48,0.2,0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Wankhede,2012,0.5,0.68,-0.18,0,0,0
+Delhi Capitals,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2009,0.48,0.42,0.06,0,0,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Feroz Shah Kotla,2019,0.42,0.56,-0.14,0,1,0
+Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Eden Gardens,2016,0.45,0.42,0.03,0,0,1
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,MA Chidambaram,2021,0.45,0.42,0.03,0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Feroz Shah Kotla,2020,0.56,0.53,0.03,0,0,0
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Chinnaswamy,2018,0.5,0.68,-0.18,1,1,0
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2010,0.48,0.45,0.03,0,0,1
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,DY Patil,2015,0.45,0.48,-0.03,0,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,Rajiv Gandhi Intl,2010,0.48,0.42,0.06,0,0,0
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2022,0.5,0.68,-0.18,0,1,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Feroz Shah Kotla,2021,0.56,0.42,0.14,0,1,1
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Wankhede,2008,0.53,0.48,0.05,0,0,1
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Chinnaswamy,2021,0.68,0.45,0.23,0,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Wankhede,2020,0.56,0.5,0.06,0,1,1
+Mumbai Indians,Punjab Kings,Mumbai Indians,field,Rajiv Gandhi Intl,2008,0.68,0.42,0.26,0,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,MA Chidambaram,2022,0.56,0.5,0.06,0,0,0
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2020,0.42,0.56,-0.14,0,0,0
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,DY Patil,2008,0.68,0.53,0.15,0,1,1
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajiv Gandhi Intl,2022,0.45,0.42,0.03,0,0,1
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,MA Chidambaram,2010,0.5,0.65,-0.15,0,0,0
+Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Feroz Shah Kotla,2019,0.68,0.48,0.2,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,DY Patil,2009,0.56,0.48,0.08,0,1,1
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Rajiv Gandhi Intl,2016,0.68,0.65,0.03,0,0,1
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Chinnaswamy,2019,0.53,0.56,-0.03,0,1,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Rajiv Gandhi Intl,2010,0.68,0.48,0.2,0,0,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2008,0.56,0.68,-0.12,0,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,MA Chidambaram,2012,0.5,0.53,-0.03,0,0,0
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Wankhede,2015,0.48,0.65,-0.17,0,0,1
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Sawai Mansingh,2014,0.68,0.65,0.03,0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2021,0.53,0.5,0.03,0,0,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,MA Chidambaram,2012,0.42,0.56,-0.14,0,1,1
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Eden Gardens,2012,0.53,0.68,-0.15,0,1,1
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Sawai Mansingh,2008,0.5,0.45,0.05,0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2011,0.65,0.5,0.15,0,0,1
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Wankhede,2019,0.5,0.42,0.08,0,0,1
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Wankhede,2017,0.45,0.68,-0.23,0,1,0
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Rajiv Gandhi Intl,2016,0.5,0.48,0.02,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Eden Gardens,2020,0.56,0.5,0.06,1,1,1
+Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Rajiv Gandhi Intl,2019,0.42,0.48,-0.06,0,0,1
+Mumbai Indians,Punjab Kings,Mumbai Indians,bat,MA Chidambaram,2021,0.68,0.42,0.26,0,1,1
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Feroz Shah Kotla,2012,0.45,0.68,-0.23,0,1,0
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,MA Chidambaram,2013,0.65,0.53,0.12,1,1,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Feroz Shah Kotla,2019,0.56,0.53,0.03,0,1,0
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,Eden Gardens,2018,0.45,0.42,0.03,0,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,DY Patil,2019,0.56,0.53,0.03,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Feroz Shah Kotla,2010,0.56,0.48,0.08,0,1,1
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Sawai Mansingh,2018,0.56,0.65,-0.09,0,1,0
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Eden Gardens,2011,0.68,0.65,0.03,0,1,1
+Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Eden Gardens,2012,0.48,0.68,-0.2,0,0,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Eden Gardens,2018,0.42,0.5,-0.08,0,1,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2020,0.5,0.56,-0.06,1,0,1
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Eden Gardens,2019,0.48,0.65,-0.17,0,1,0
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Wankhede,2020,0.45,0.48,-0.03,0,1,1
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,DY Patil,2013,0.45,0.48,-0.03,0,0,0
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2012,0.53,0.68,-0.15,1,1,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2017,0.5,0.56,-0.06,1,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,Sawai Mansingh,2011,0.48,0.42,0.06,0,0,1
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Sawai Mansingh,2009,0.56,0.42,0.14,0,0,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,DY Patil,2013,0.5,0.48,0.02,0,1,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Feroz Shah Kotla,2012,0.65,0.56,0.09,0,0,1
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,MA Chidambaram,2009,0.56,0.45,0.11,0,0,0
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Chinnaswamy,2014,0.53,0.42,0.11,0,1,1
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajiv Gandhi Intl,2008,0.68,0.53,0.15,0,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sawai Mansingh,2014,0.65,0.53,0.12,0,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sawai Mansingh,2018,0.48,0.5,-0.02,0,0,0
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Rajiv Gandhi Intl,2018,0.68,0.56,0.12,0,1,1
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,MA Chidambaram,2010,0.5,0.42,0.08,0,1,1
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Wankhede,2015,0.68,0.53,0.15,1,0,1
+Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2020,0.48,0.5,-0.02,0,0,0
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chinnaswamy,2010,0.42,0.65,-0.23,0,0,0
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Wankhede,2015,0.65,0.45,0.2,0,1,1
+Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Eden Gardens,2015,0.48,0.68,-0.2,0,1,0
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,2016,0.42,0.45,-0.03,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Feroz Shah Kotla,2016,0.45,0.53,-0.08,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Wankhede,2009,0.56,0.5,0.06,0,1,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2015,0.42,0.56,-0.14,0,0,1
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,MA Chidambaram,2010,0.56,0.48,0.08,0,1,1
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,2019,0.42,0.65,-0.23,0,0,0
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Sawai Mansingh,2022,0.56,0.65,-0.09,0,0,1
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajiv Gandhi Intl,2014,0.45,0.5,-0.05,0,1,0
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Wankhede,2021,0.53,0.42,0.11,0,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2022,0.53,0.5,0.03,1,0,0
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajiv Gandhi Intl,2011,0.45,0.48,-0.03,0,0,0
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,MA Chidambaram,2015,0.65,0.45,0.2,1,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,DY Patil,2009,0.48,0.42,0.06,0,0,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh,2018,0.45,0.48,-0.03,1,1,1
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2017,0.68,0.42,0.26,0,0,1
+Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,DY Patil,2016,0.48,0.45,0.03,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Wankhede,2008,0.56,0.68,-0.12,0,0,1
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Eden Gardens,2022,0.68,0.56,0.12,0,1,0
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Chinnaswamy,2012,0.5,0.68,-0.18,1,0,1
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Wankhede,2015,0.45,0.65,-0.2,0,1,0
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,MA Chidambaram,2008,0.45,0.42,0.03,0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Wankhede,2012,0.5,0.68,-0.18,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Rajiv Gandhi Intl,2014,0.5,0.53,-0.03,0,1,0
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajiv Gandhi Intl,2010,0.68,0.56,0.12,0,0,1
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,MA Chidambaram,2011,0.56,0.42,0.14,0,1,0
+Punjab Kings,Mumbai Indians,Punjab Kings,field,DY Patil,2013,0.42,0.68,-0.26,1,1,1
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,DY Patil,2015,0.53,0.42,0.11,0,1,0
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2019,0.65,0.56,0.09,1,0,0
+Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Chinnaswamy,2020,0.48,0.68,-0.2,0,1,1
+Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,MA Chidambaram,2017,0.48,0.45,0.03,0,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Feroz Shah Kotla,2021,0.53,0.45,0.08,0,0,1
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2011,0.68,0.56,0.12,0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2008,0.5,0.68,-0.18,0,1,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Feroz Shah Kotla,2018,0.56,0.42,0.14,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,MA Chidambaram,2013,0.65,0.56,0.09,1,0,1
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sawai Mansingh,2011,0.42,0.53,-0.11,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Feroz Shah Kotla,2022,0.56,0.5,0.06,0,1,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,DY Patil,2015,0.42,0.5,-0.08,1,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,MA Chidambaram,2009,0.5,0.53,-0.03,0,1,0
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Feroz Shah Kotla,2017,0.53,0.42,0.11,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Chinnaswamy,2022,0.45,0.53,-0.08,0,1,0
+Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Sawai Mansingh,2017,0.48,0.68,-0.2,0,0,0
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,MA Chidambaram,2012,0.68,0.5,0.18,0,0,1
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Wankhede,2008,0.56,0.42,0.14,0,0,0
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Wankhede,2021,0.48,0.45,0.03,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chinnaswamy,2015,0.68,0.5,0.18,0,0,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,MA Chidambaram,2017,0.65,0.45,0.2,1,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Eden Gardens,2021,0.53,0.45,0.08,0,0,1
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2015,0.53,0.42,0.11,0,0,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,MA Chidambaram,2009,0.5,0.53,-0.03,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Chinnaswamy,2019,0.56,0.53,0.03,0,1,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Chinnaswamy,2012,0.42,0.5,-0.08,0,1,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Eden Gardens,2013,0.5,0.42,0.08,0,0,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Chinnaswamy,2018,0.5,0.48,0.02,1,1,1
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,DY Patil,2021,0.65,0.5,0.15,0,1,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Chinnaswamy,2011,0.45,0.48,-0.03,0,1,0
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Eden Gardens,2011,0.48,0.53,-0.05,0,0,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,DY Patil,2017,0.42,0.56,-0.14,1,0,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,MA Chidambaram,2018,0.65,0.42,0.23,1,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Wankhede,2013,0.5,0.53,-0.03,0,1,1
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,MA Chidambaram,2014,0.5,0.65,-0.15,0,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Wankhede,2014,0.56,0.53,0.03,0,1,1
+Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Feroz Shah Kotla,2012,0.48,0.68,-0.2,1,1,0
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,MA Chidambaram,2011,0.56,0.68,-0.12,0,0,1
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Eden Gardens,2008,0.65,0.56,0.09,0,0,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,DY Patil,2018,0.65,0.48,0.17,0,0,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,MA Chidambaram,2019,0.53,0.5,0.03,0,0,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajiv Gandhi Intl,2011,0.45,0.42,0.03,0,1,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,DY Patil,2016,0.56,0.42,0.14,0,1,1
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Chinnaswamy,2011,0.42,0.45,-0.03,0,0,1
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Chinnaswamy,2015,0.5,0.48,0.02,1,0,1
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Feroz Shah Kotla,2010,0.56,0.65,-0.09,0,1,0
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,MA Chidambaram,2012,0.68,0.42,0.26,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Feroz Shah Kotla,2013,0.53,0.45,0.08,0,1,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,MA Chidambaram,2020,0.68,0.5,0.18,0,0,1
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2013,0.42,0.5,-0.08,0,0,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Eden Gardens,2009,0.56,0.42,0.14,1,0,0
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Wankhede,2021,0.53,0.68,-0.15,0,0,0
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajiv Gandhi Intl,2012,0.45,0.48,-0.03,0,0,0
+Punjab Kings,Mumbai Indians,Mumbai Indians,field,Eden Gardens,2017,0.42,0.68,-0.26,0,0,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,DY Patil,2017,0.65,0.42,0.23,0,1,1
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Chinnaswamy,2012,0.68,0.53,0.15,0,1,1
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Wankhede,2016,0.68,0.65,0.03,1,1,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Wankhede,2022,0.65,0.42,0.23,0,1,1
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Chinnaswamy,2016,0.45,0.53,-0.08,0,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Chinnaswamy,2008,0.53,0.45,0.08,0,0,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Wankhede,2010,0.56,0.42,0.14,0,0,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Feroz Shah Kotla,2010,0.56,0.53,0.03,0,0,1
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Feroz Shah Kotla,2015,0.65,0.68,-0.03,0,1,0
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Chinnaswamy,2012,0.5,0.45,0.05,1,1,1
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2010,0.5,0.45,0.05,0,0,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Sawai Mansingh,2011,0.42,0.5,-0.08,0,1,0
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Sawai Mansingh,2021,0.65,0.45,0.2,0,1,1
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Eden Gardens,2011,0.5,0.65,-0.15,0,1,0
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Chinnaswamy,2012,0.56,0.68,-0.12,0,1,0
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2012,0.68,0.45,0.23,0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Chinnaswamy,2013,0.5,0.68,-0.18,1,0,0
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,MA Chidambaram,2011,0.65,0.45,0.2,1,0,1
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajiv Gandhi Intl,2020,0.45,0.42,0.03,0,0,1
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,DY Patil,2017,0.53,0.65,-0.12,0,1,0
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Feroz Shah Kotla,2021,0.65,0.68,-0.03,0,0,0
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Wankhede,2019,0.65,0.5,0.15,0,1,1
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Eden Gardens,2019,0.5,0.65,-0.15,0,1,0
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Chinnaswamy,2020,0.48,0.45,0.03,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chinnaswamy,2011,0.56,0.5,0.06,0,0,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajiv Gandhi Intl,2022,0.65,0.45,0.2,0,1,1
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chinnaswamy,2011,0.68,0.65,0.03,0,1,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Wankhede,2017,0.65,0.48,0.17,0,0,1
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,DY Patil,2013,0.5,0.45,0.05,0,1,0
+Delhi Capitals,Mumbai Indians,Mumbai Indians,field,MA Chidambaram,2011,0.48,0.68,-0.2,0,0,0
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Wankhede,2020,0.68,0.53,0.15,1,1,1
+Punjab Kings,Delhi Capitals,Punjab Kings,bat,Eden Gardens,2018,0.42,0.48,-0.06,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Feroz Shah Kotla,2022,0.5,0.53,-0.03,0,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,DY Patil,2019,0.53,0.5,0.03,0,1,0
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,DY Patil,2014,0.68,0.65,0.03,0,0,1
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Sawai Mansingh,2008,0.45,0.42,0.03,1,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,MA Chidambaram,2009,0.53,0.5,0.03,0,0,0
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,DY Patil,2014,0.65,0.68,-0.03,0,1,0
+Delhi Capitals,Punjab Kings,Delhi Capitals,field,MA Chidambaram,2015,0.48,0.42,0.06,0,1,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajiv Gandhi Intl,2015,0.65,0.45,0.2,0,1,1
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Wankhede,2014,0.65,0.68,-0.03,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,DY Patil,2018,0.56,0.68,-0.12,0,1,0
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Eden Gardens,2015,0.53,0.65,-0.12,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Eden Gardens,2022,0.56,0.5,0.06,1,1,1
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,DY Patil,2014,0.5,0.65,-0.15,0,0,1
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2021,0.48,0.56,-0.08,0,0,1
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,MA Chidambaram,2012,0.68,0.65,0.03,0,1,0
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Sawai Mansingh,2011,0.56,0.48,0.08,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2015,0.56,0.48,0.08,0,0,1
+Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,DY Patil,2016,0.68,0.48,0.2,0,1,0
+Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Eden Gardens,2008,0.48,0.42,0.06,0,1,1
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajiv Gandhi Intl,2010,0.45,0.68,-0.23,0,0,0
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh,2008,0.45,0.48,-0.03,1,1,1
+Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Wankhede,2020,0.42,0.5,-0.08,0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,DY Patil,2014,0.45,0.53,-0.08,0,1,1
+Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Eden Gardens,2021,0.45,0.53,-0.08,0,1,1
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Eden Gardens,2010,0.68,0.45,0.23,0,0,1
+Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Wankhede,2017,0.65,0.42,0.23,0,0,1
+Delhi Capitals,Punjab Kings,Punjab Kings,field,Chinnaswamy,2013,0.48,0.42,0.06,0,0,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2008,0.56,0.5,0.06,0,1,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Eden Gardens,2010,0.65,0.42,0.23,0,1,1
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,DY Patil,2008,0.68,0.5,0.18,0,0,1
+Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Wankhede,2014,0.53,0.48,0.05,0,0,1
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Sawai Mansingh,2012,0.65,0.68,-0.03,0,1,0
+Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Chinnaswamy,2022,0.48,0.68,-0.2,0,1,0
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Feroz Shah Kotla,2016,0.5,0.65,-0.15,0,0,0
+Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Chinnaswamy,2019,0.68,0.48,0.2,0,1,1
+Mumbai Indians,Punjab Kings,Punjab Kings,bat,Eden Gardens,2016,0.68,0.42,0.26,0,0,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,DY Patil,2009,0.5,0.56,-0.06,0,0,0
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2022,0.42,0.65,-0.23,0,0,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,MA Chidambaram,2009,0.56,0.42,0.14,0,0,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Chinnaswamy,2017,0.53,0.45,0.08,0,0,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2014,0.5,0.56,-0.06,1,0,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Chinnaswamy,2018,0.5,0.53,-0.03,1,1,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Sawai Mansingh,2019,0.65,0.45,0.2,0,1,1
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Wankhede,2017,0.42,0.45,-0.03,0,0,0
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Feroz Shah Kotla,2008,0.42,0.53,-0.11,0,0,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Wankhede,2022,0.5,0.53,-0.03,0,1,0
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chinnaswamy,2012,0.53,0.65,-0.12,0,1,0
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Eden Gardens,2019,0.56,0.65,-0.09,1,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chinnaswamy,2016,0.53,0.5,0.03,0,0,1
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Feroz Shah Kotla,2018,0.5,0.65,-0.15,0,0,1
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Eden Gardens,2014,0.68,0.5,0.18,0,1,1
+Punjab Kings,Mumbai Indians,Mumbai Indians,field,Sawai Mansingh,2010,0.42,0.68,-0.26,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Feroz Shah Kotla,2012,0.48,0.53,-0.05,1,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Sawai Mansingh,2012,0.53,0.5,0.03,0,1,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Eden Gardens,2012,0.56,0.42,0.14,1,1,1
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2013,0.68,0.53,0.15,0,0,1
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Rajiv Gandhi Intl,2009,0.42,0.5,-0.08,0,1,0
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,MA Chidambaram,2014,0.68,0.45,0.23,0,1,0
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Rajiv Gandhi Intl,2020,0.48,0.65,-0.17,0,1,1
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Sawai Mansingh,2018,0.42,0.5,-0.08,0,1,0
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Sawai Mansingh,2020,0.65,0.56,0.09,0,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Rajiv Gandhi Intl,2018,0.5,0.53,-0.03,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Rajiv Gandhi Intl,2015,0.56,0.48,0.08,0,0,0
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2017,0.42,0.56,-0.14,0,0,0
+Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Wankhede,2011,0.42,0.53,-0.11,0,1,0
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chinnaswamy,2016,0.45,0.5,-0.05,0,0,1
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Sawai Mansingh,2019,0.5,0.42,0.08,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Feroz Shah Kotla,2013,0.5,0.48,0.02,0,1,0
+Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Chinnaswamy,2020,0.56,0.45,0.11,0,1,0
+Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,MA Chidambaram,2019,0.45,0.48,-0.03,0,0,0
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Eden Gardens,2013,0.68,0.56,0.12,0,1,1
+Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Feroz Shah Kotla,2013,0.42,0.45,-0.03,0,1,0
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Feroz Shah Kotla,2009,0.45,0.68,-0.23,0,1,0
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajiv Gandhi Intl,2011,0.45,0.5,-0.05,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,MA Chidambaram,2009,0.5,0.53,-0.03,0,0,0
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,DY Patil,2019,0.48,0.65,-0.17,0,1,0
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2008,0.48,0.56,-0.08,0,0,0
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Sawai Mansingh,2020,0.56,0.42,0.14,0,1,0
+Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Sawai Mansingh,2016,0.42,0.5,-0.08,0,1,0
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Sawai Mansingh,2016,0.56,0.48,0.08,0,1,1
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sawai Mansingh,2012,0.45,0.53,-0.08,1,0,0
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chinnaswamy,2021,0.68,0.65,0.03,0,1,1
+Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Feroz Shah Kotla,2009,0.65,0.42,0.23,0,0,1
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,MA Chidambaram,2021,0.65,0.53,0.12,1,0,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajiv Gandhi Intl,2015,0.42,0.56,-0.14,0,0,1
+Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Feroz Shah Kotla,2020,0.42,0.56,-0.14,0,1,1
+Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Eden Gardens,2013,0.56,0.48,0.08,1,0,0
+Rajasthan Royals,Punjab Kings,Punjab Kings,field,Chinnaswamy,2019,0.45,0.42,0.03,0,0,0
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,DY Patil,2021,0.48,0.53,-0.05,0,0,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sawai Mansingh,2022,0.56,0.53,0.03,0,0,1
+Mumbai Indians,Punjab Kings,Punjab Kings,field,Wankhede,2013,0.68,0.42,0.26,1,0,1
+Punjab Kings,Chennai Super Kings,Punjab Kings,field,Sawai Mansingh,2017,0.42,0.65,-0.23,0,1,0
+Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Wankhede,2015,0.45,0.42,0.03,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh,2019,0.5,0.48,0.02,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Eden Gardens,2014,0.5,0.53,-0.03,0,0,0
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,MA Chidambaram,2008,0.5,0.68,-0.18,0,1,0
+Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Rajiv Gandhi Intl,2022,0.48,0.5,-0.02,0,1,1
+Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Chinnaswamy,2013,0.56,0.42,0.14,0,1,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chinnaswamy,2020,0.42,0.56,-0.14,0,0,0
+Punjab Kings,Delhi Capitals,Punjab Kings,field,Sawai Mansingh,2015,0.42,0.48,-0.06,0,1,1
+Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,DY Patil,2018,0.48,0.45,0.03,0,0,1
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Feroz Shah Kotla,2016,0.5,0.42,0.08,0,1,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh,2013,0.45,0.48,-0.03,1,1,0
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Feroz Shah Kotla,2020,0.53,0.42,0.11,0,1,1
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,DY Patil,2017,0.56,0.68,-0.12,0,1,1
+Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Chinnaswamy,2017,0.5,0.48,0.02,1,1,0
+Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,MA Chidambaram,2014,0.53,0.42,0.11,0,0,1
+Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,DY Patil,2009,0.65,0.42,0.23,0,1,1
+Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,MA Chidambaram,2014,0.48,0.65,-0.17,0,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Feroz Shah Kotla,2022,0.5,0.53,-0.03,0,1,1
+Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Wankhede,2013,0.42,0.56,-0.14,0,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,DY Patil,2022,0.56,0.5,0.06,0,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Chinnaswamy,2021,0.53,0.45,0.08,0,1,0
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chinnaswamy,2022,0.5,0.65,-0.15,1,0,0
+Punjab Kings,Chennai Super Kings,Punjab Kings,field,Sawai Mansingh,2015,0.42,0.65,-0.23,0,1,0
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajiv Gandhi Intl,2015,0.65,0.45,0.2,0,0,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chinnaswamy,2009,0.5,0.56,-0.06,1,0,0
+Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Chinnaswamy,2015,0.5,0.42,0.08,1,0,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Feroz Shah Kotla,2013,0.65,0.45,0.2,0,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,DY Patil,2008,0.5,0.53,-0.03,0,1,0
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Chinnaswamy,2021,0.45,0.56,-0.11,0,1,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,DY Patil,2008,0.5,0.53,-0.03,0,0,0
+Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Wankhede,2022,0.42,0.65,-0.23,0,1,0
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Wankhede,2022,0.56,0.42,0.14,0,0,1
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Feroz Shah Kotla,2015,0.65,0.45,0.2,0,0,1
+Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Wankhede,2022,0.5,0.48,0.02,0,0,1
+Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Sawai Mansingh,2022,0.68,0.48,0.2,0,0,1
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,DY Patil,2008,0.56,0.42,0.14,0,0,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Feroz Shah Kotla,2008,0.65,0.45,0.2,0,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,MA Chidambaram,2022,0.53,0.45,0.08,0,0,0
+Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,DY Patil,2016,0.48,0.56,-0.08,0,1,1
+Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Sawai Mansingh,2011,0.48,0.68,-0.2,0,0,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,DY Patil,2010,0.53,0.56,-0.03,0,1,1
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chinnaswamy,2020,0.65,0.68,-0.03,0,1,0
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chinnaswamy,2020,0.65,0.48,0.17,0,0,1
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,DY Patil,2019,0.53,0.68,-0.15,0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,MA Chidambaram,2018,0.5,0.53,-0.03,0,0,0
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajiv Gandhi Intl,2016,0.42,0.53,-0.11,0,0,1
+Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Sawai Mansingh,2011,0.65,0.48,0.17,0,0,1
+Mumbai Indians,Punjab Kings,Punjab Kings,field,Wankhede,2008,0.68,0.42,0.26,1,0,1
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajiv Gandhi Intl,2013,0.65,0.45,0.2,0,1,0
+Punjab Kings,Delhi Capitals,Punjab Kings,bat,Eden Gardens,2020,0.42,0.48,-0.06,0,1,1
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajiv Gandhi Intl,2022,0.68,0.45,0.23,0,1,1
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Sawai Mansingh,2012,0.45,0.48,-0.03,1,1,1
+Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Sawai Mansingh,2016,0.56,0.45,0.11,0,1,0
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chinnaswamy,2009,0.45,0.53,-0.08,0,0,0
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,DY Patil,2019,0.68,0.65,0.03,0,1,1
+Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Wankhede,2010,0.5,0.42,0.08,0,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,DY Patil,2015,0.56,0.5,0.06,0,0,0
